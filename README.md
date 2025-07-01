@@ -1,4 +1,4 @@
-🗑️ June 2025 Waste Management Operations Dashboard          
+# June Waste Management Operations-PowerBI
 
 [https://app.powerbi.com/reportEmbed?reportId=cb810e0a-3760-4395-b735-048f36de1e17&autoAuth=true&ctid=50af51b8-eff2-421b-8425-d95d48d29c5e]
 
@@ -39,4 +39,3 @@ Operational cost monitoring against preset budget targets
 
 
 
-# WasteManagementOperations-PowerBI
