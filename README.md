@@ -1,6 +1,6 @@
 # June Waste Management Operations-PowerBI
 
-[https://app.powerbi.com/reportEmbed?reportId=cb810e0a-3760-4395-b735-048f36de1e17&autoAuth=true&ctid=50af51b8-eff2-421b-8425-d95d48d29c5e]
+https://app.powerbi.com/reportEmbed?reportId=cb810e0a-3760-4395-b735-048f36de1e17&autoAuth=true&ctid=50af51b8-eff2-421b-8425-d95d48d29c5e
 
 This Power BI dashboard provides a comprehensive operational analysis of waste management activity across the Houston area for the month of June 2025. It was designed to help stakeholders monitor cost efficiency, fuel consumption, service reach, and identify areas requiring operational attention.
 
